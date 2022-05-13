@@ -1,1 +1,2 @@
-# arc-first
+# arc-first 
+git commands demonstration
